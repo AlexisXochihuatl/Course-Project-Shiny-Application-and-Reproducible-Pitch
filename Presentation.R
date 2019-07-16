@@ -30,7 +30,5 @@ head(diamonds)
 ##Slide with Complete Reporting Appliaction
 Click the Below Link for the Application.
 
-
-
 Click the link below for compiled project files on gitub repo.
-
+https://github.com/AlexisXochihuatl/Course-Project-Shiny-Application-and-Reproducible-Pitch/tree/master
